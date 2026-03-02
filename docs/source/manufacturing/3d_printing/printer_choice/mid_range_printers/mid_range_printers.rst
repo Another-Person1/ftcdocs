@@ -47,14 +47,14 @@ Centauri Carbon 2 Combo Drawbacks
 |
 
 Prusa Mini+ ($559)
------------------
+------------------
 
 If you're ok with paying a premium and getting a smaller build volume in exchange for a printer that just works
 every time, the Prusa Mini+ is a great option, as Prusa has had millions of hours running these machines. Just 
 about every issue with this printer has been found, patched, and pushed to the consumer.
 
 Prusa Mini+ Features
-^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
 * Auto Bed Leveling
 * Removable Spring Steel Sheets
 * Prusa's consistency guarantee
@@ -63,7 +63,7 @@ Prusa Mini+ Features
 * 180mm x 180mm x 180mm Print Volume
 
 Prusa Mini+ Drawbacks
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^
 * Premium price
 * Cantilever/unsupported X axis
 * Slightly obsolete technology
@@ -138,7 +138,7 @@ P2S Drawbacks
 * Ethernet and several enterprise/network-security features are not available
 * Replacement parts and long-term ecosystem are more vendor-dependent than open-platform printers
 
-.. image:: images/bambulabp2s.png
+.. image:: images/bambulabp2s.jpg
   :align: center
   :width: 55%
   :alt: Picture of a Bambu Lab P2S

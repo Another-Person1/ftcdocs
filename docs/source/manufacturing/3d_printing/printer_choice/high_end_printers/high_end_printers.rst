@@ -10,13 +10,13 @@ High-End Printers ($800+ USD)
 
 
 Prusa Core One+ ($1099 non-assembled, $1319 assembled)
-----------------
+------------------------------------------------------
 
 The Prusa Core One+ is aimed at teams that want a higher-speed, CoreXY-style printer while staying in the Prusa ecosystem.
 Since product configurations can change over time, confirm the exact build volume, enclosure status, and included hardware options before purchasing.
 
 Core One+ Features
-^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^
 * Build volume: 250 x 220 x 270 mm
 * CoreXY-style motion system (typically enables higher speeds than bed-slingers)
 * Fully automatic first layer calibration (load cell) and automatic mesh bed leveling (print area)
@@ -27,7 +27,7 @@ Core One+ Features
 * MMU3 support
 
 Core One+ Drawbacks
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^
 * Higher upfront cost than many mid-range options
 * CoreXY machines tend to be more mechanically complex to tune and maintain (belts, idlers, etc.)
 * Max nozzle temperature (290 °C) may be limiting for some high-temp materials

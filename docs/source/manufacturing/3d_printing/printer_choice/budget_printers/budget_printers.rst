@@ -5,7 +5,7 @@ Budget Printers (Under $400 USD)
   However, there are some good options in the budget range that can be a great starting point for teams on a tight budget or those new to 3D printing.
 
 Bambu Lab A1 Mini ($219)
--------------------
+------------------------
 
 The A1 mini is Bambu Lab's entry-level printer, and is increasingly popular in the competition robotics community. It is a good option for teams that want a reliable, easy-to-use printer with a small footprint,
 and it can be a great first printer for PLA/PETG robot parts.
@@ -39,7 +39,7 @@ A1 mini Drawbacks
 |
 
 Elegoo Centauri Carbon ($289-$300)
-----------------------------
+----------------------------------
 
 This is a newer printer that has been getting a lot of attention for offering high-end features at a budget price. It has a CoreXY motion system, high acceleration capability, and a high-temperature hotend, which allows it to print a wide range of materials.
 It also has a large build volume for its price point, making it a good option for teams that want to print larger parts or multiple parts at once.

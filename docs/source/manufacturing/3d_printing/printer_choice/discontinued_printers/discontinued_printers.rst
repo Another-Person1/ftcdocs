@@ -75,7 +75,7 @@ Mk4 Drawbacks
 |
 
 Bambu Lab P1P ($599)
--------------------
+---------------------
 
 Built for speed by Bambu Lab, the P1P is a CoreXY machine with well engineered proprietary hardware and software. 
 A machine that is proving very reliable for many despite Bambu Lab's short time in the 3D printer marketplace so
