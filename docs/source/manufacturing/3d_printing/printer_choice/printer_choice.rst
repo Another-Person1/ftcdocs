@@ -8,7 +8,7 @@ As you compare features and drawbacks across each budget range, there is one mus
 
 This is important to check for safety reasons, as well as to make sure you are not buying a printer that has a known issue that could cause it to break down or pose a safety hazard.
 
-Early model Bambu A1 printers (**manufactured and sold before Jan 30, 2024**) had `a recall <https://blog.bambulab.com/a1-recall-update/>`_ due to a fire hazard from the heatbed cable.
+Early model Bambu Lab A1 printers (**manufactured and sold before Jan 30, 2024**) had `a recall <https://blog.bambulab.com/a1-recall-update/>`_ due to a fire hazard from the heatbed cable.
 
 There are also reports of `NTC thermistors melting <https://all3dp.com/4/bambu-lab-confirms-a1-components-on-older-machines-can-burn-out/>`_ on certain Bambu Lab A1 models as well, which could cause the printer plastic to melt.
 
@@ -28,6 +28,7 @@ All other printers that we list in our sections below are modern enough to have 
 
 **Obsolete Products**: 3D printing technology moves at a fast pace, and it is important to check if the printer you intend on buying is not obsolete or discontinued by the manufacturer.
 This is important to check for a few reasons.
+
 1. Obsolete printers can be hard to find, and prices may be overinflated.
 2. It may be more difficult to find replacement parts or to get support from the manufacturer if you run into issues with the printer.
 3. Newer printers have extra features, better performance, and/or more easy to use software, so you may be missing out on a better experience by buying an obsolete printer.
