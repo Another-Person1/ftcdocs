@@ -36,6 +36,38 @@ This is important to check for a few reasons.
 
 However, if your team is on a tight budget, buying last generation printers that are now discontinued may be a good option, as long as you check that they have the features listed above, reasonable spare parts availability, and are aware of any potential issues that may arise from buying a discontinued printer.
 
+**Multicolour Printing**:
+
+This feature lets a printer use multiple filament colours in one print, either with a multi-extruder setup or a filament switching system (built-in, such as on the Centauri Carbon 2, or separate, such as the Bambu Lab AMS series).
+For FTC teams, multicolour is mostly useful for team branding or decorative parts rather than functional robot components, so consider whether the added cost and complexity are worthwhile for your team's needs.
+
+General considerations:
+
+* Some systems (e.g. Bambu Lab AMS, Prusa MMU3, Elegoo Centauri Carbon 2) can also serve as a filament library for single-colour prints, letting you quickly switch between materials without manually swapping spools.
+* Some systems can automatically switch to another spool if one runs out—useful for long prints or large batches of identical parts.
+* Remote filament load/unload can be convenient for team members monitoring prints from across the room or remotely.
+* On some brands, multiple units can be chained together for more colour/material options, but this adds cost and may require additional accessories.
+* Multicolour systems waste significant filament during colour changes, so tune slicer settings and use multicolour only when needed.
+* Some printers use purge ("poop") chutes during colour changes; if not set up properly, these can create significant waste and mess.
+
+If you are purchasing a Bambu Lab printer, buying an AMS 2 Pro/AMS HT/AMS/AMS Lite with the printer (usually the "Combo" version) is generally better value than buying it separately.
+
+Bambu Lab AMS notes:
+
+* The AMS series only works with Bambu Lab printers.
+* The AMS/AMS HT/AMS 2 Pro doubles as filament storage, helping keep filament dry in humid environments.
+* The AMS 2 Pro can actively dry filament, but you may still need an AMS HT for higher-temperature materials (e.g. carbon fibre filaments).
+* The AMS Lite is only compatible with A1 series printers and lacks active drying and enclosed storage.
+* Only one AMS Lite can be used per A1 series printer, and it cannot be combined with other AMS models.
+* You can mix AMS 2 Pro/AMS HT/AMS units together on compatible printers.
+* Replace or reheat the desiccant periodically. Avoid blue indicating silica gel (contains toxic cobalt chloride) or calcium chloride desiccant (can leak water and damage the AMS). Use orange-to-green indicating silica gel instead.
+* An AMS Hub, external power supply, or other accessories may be needed for certain setups; refer to Bambu Lab documentation for details.
+* For detailed information, refer to the `Bambu Lab AMS documentation <https://wiki.bambulab.com/en/ams-series>`_.
+
+If you are purchasing a different brand, check multiple reputable reviews to confirm the multicolour system is reliable and does not create excessive waste. Some implementations are poorly executed and can be more trouble than they are worth.
+
+With dual/multi-nozzle systems, you may need to stock multiple nozzle types and handle additional maintenance; refer to the manufacturer's documentation for model-specific guidance.
+
 The list of printers below is not exhaustive, but it is a good starting point for teams to compare different printers from different brands across different price ranges and to get an idea of what features are available at each price point.
 
 .. toctree::

@@ -1,4 +1,4 @@
-Mid-Range Printers ($300-$800 USD)
+Mid-Range Printers ($400-$800 USD)
 ==================================
 
 .. note:: Tip for both of the Prusa printers listed on this page. You can now order Prusa printers from either their 
@@ -20,7 +20,7 @@ Centauri Carbon 2 Combo Features
 * Build volume: 256 x 256 x 256 mm
 * High speed (up to 500 mm/s; 250 mm/s recommended) and high acceleration (up to 20,000 mm/s²; 10,000 mm/s² default)
 * Print accuracy up to ±0.1 mm with recommended layer height of 0.2 mm (range: 0.1-0.4 mm)
-* 4-colour multicolour capability included
+* 4-colour multicolour capability built in on the printer
 * Broad material support (ideal: PLA, PETG, TPU, ABS, ASA, PLA-CF; capable: PETG-CF, ABS-CF, ASA-CF, PET-CF, PA-CF, PET, PC, PA)
 * Dual-gear direct drive extruder with 0.4 mm brass-hardened steel nozzle
 * Max hot end temperature: 350 °C

@@ -44,7 +44,7 @@ Elegoo Centauri Carbon ($289-$300)
 This is a newer printer that has been getting a lot of attention for offering high-end features at a budget price. It has a CoreXY motion system, high acceleration capability, and a high-temperature hotend, which allows it to print a wide range of materials.
 It also has a large build volume for its price point, making it a good option for teams that want to print larger parts or multiple parts at once.
 There is also an enclosure, which makes it more suitable for printing with materials that require a controlled environment.
-However, there is no colour changing system compared to competing printers on the market.
+However, there is no colour changing system (as of March 2026) compared to competing printers on the market.
 
 Centauri Carbon Features
 ^^^^^^^^^^^^^^^^^^^^^^^^
